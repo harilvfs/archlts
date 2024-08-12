@@ -19,7 +19,7 @@ cd linuxltskernel</code></pre>
     <pre><code>chmod +x install.sh</code></pre>
   </li>
   <li><strong>▶️Run the Setup Script:</strong>
-    <pre><code>sudo ./install.sh</code></pre>
+    <pre><code>./install.sh</code></pre>
   </li>
 </ol>
 
