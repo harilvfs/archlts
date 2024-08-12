@@ -16,10 +16,10 @@
 cd linuxltskernel</code></pre>
   </li>
   <li><strong>🔐Give Execution Permissions:</strong>
-    <pre><code>chmod +x setup.sh</code></pre>
+    <pre><code>chmod +x install.sh</code></pre>
   </li>
   <li><strong>▶️Run the Setup Script:</strong>
-    <pre><code>sudo ./setup.sh</code></pre>
+    <pre><code>sudo ./install.sh</code></pre>
   </li>
 </ol>
 
