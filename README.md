@@ -4,9 +4,10 @@
 
 <h2>✨ What This Script Does</h2>
 <ul>
-  <li><strong>Installs the Linux LTS Kernel:</strong> Ensures you're running a stable, long-term support kernel.</li>
-  <li><strong>Updates GRUB:</strong> Automatically adds the new kernel to your bootloader.</li>
-  <li><strong>Configures the Boot Sequence:</strong> Prioritizes the LTS kernel in your GRUB settings.</li>
+  <li><strong>Installs the Linux LTS Kernel:</strong> Makes sure your system is running a stable, long-term support kernel.</li>
+  <li><strong>Updates GRUB:</strong> Automatically adds the new kernel to your bootloader, so it's ready to use.</li>
+  <li><strong>Configures the Boot Sequence:</strong> Sets your system to prioritize the LTS kernel in the bootloader, ensuring it boots up with the stable version.
+</li>
 </ul>
 
 <h2>📦How to Install</h2>
