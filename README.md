@@ -11,14 +11,14 @@
 
 <h2>📦How to Install</h2>
 <ol>
-  <li><strong>📁Clone the Repo:</strong>
+  <li><strong>Clone the Repo:</strong>
     <pre><code>git clone https://github.com/aayushx402/linuxltskernel
 cd linuxltskernel</code></pre>
   </li>
-  <li><strong>🔐Give Execution Permissions:</strong>
+  <li><strong>Give Execution Permissions:</strong>
     <pre><code>chmod +x install.sh</code></pre>
   </li>
-  <li><strong>▶️Run the Setup Script:</strong>
+  <li><strong>Run the Setup Script:</strong>
     <pre><code>./install.sh</code></pre>
   </li>
 </ol>
