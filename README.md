@@ -1,4 +1,4 @@
-<h1>Linux LTS Kernel Installer🚀</h1>
+<p align="center"><strong>LTS Kernel Installer🚀</strong>
 
 <p>Get the stability of the Long-Term Support (LTS) kernel on your Arch or Arch-based distribution with a simple script. 🧑‍💻</p>
 
