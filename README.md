@@ -13,8 +13,8 @@
 <h2>📦How to Install</h2>
 <ol>
   <li><strong>Clone the Repo:</strong>
-    <pre><code>git clone https://github.com/aayushx402/linuxltskernel
-cd linuxltskernel</code></pre>
+    <pre><code>git clone https://github.com/harilvfs/archlts
+cd archlts</code></pre>
   </li>
   <li><strong>Give Execution Permissions:</strong>
     <pre><code>chmod +x install.sh</code></pre>
