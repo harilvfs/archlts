@@ -14,7 +14,7 @@
 <ol>
   <li><strong>Clone the Repo:</strong>
     <pre><code>git clone https://github.com/harilvfs/archlts
-cd archlts</code></pre>
+cd archlts/</code></pre>
   </li>
   <li><strong>Give Execution Permissions:</strong>
     <pre><code>chmod +x install.sh</code></pre>
